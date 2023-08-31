@@ -7,9 +7,11 @@ RENCANA MEMBUAT PORTFOLIO
   * Lightroom
 - Membuat design mengenai apapun
   * Photoshop
-  * Illustrator
+  * Figma
 - Membuat projek website untuk bisnis dan pribadi
   * HTML & CSS
-  * Javascript (ReactJS)
-  * NodeJS (expressJS)
+  * Javascript
+    ^ ReactJS
+  * NodeJS 
+    ^ ExpressJS
   * MongoDB
