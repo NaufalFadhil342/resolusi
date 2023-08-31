@@ -3,10 +3,14 @@ RENCANA MEMBUAT PORTFOLIO
 - Membuat template untuk keperluan social media, salah satunya Instagram
 - Membuat logo bisnis pribadi serta namecard untuk identitas diri
 - Fotograpi
+  - Lightroom
 - Membuat design mengenai apapun
   * Photoshop
-  * Illustrator
+  * Figma
 - Membuat projek website untuk bisnis dan pribadi
   * HTML & CSS
-  * Javascript (ReactJS)
-  * NodeJS
+  * Javascript
+    ^ ReactJS
+  * NodeJS 
+    ^ ExpressJS
+  * MongoDB
